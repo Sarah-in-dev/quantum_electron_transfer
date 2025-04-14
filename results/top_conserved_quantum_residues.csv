@@ -1,0 +1,11 @@
+chain,position,residue,distance_to_cofactor,conservation,quantum_relevance
+D,249,ALA,3.79,1.0000,High
+A,198,HIS,2.15,0.9000,High
+A,183,MET,3.39,0.9000,High
+A,205,VAL,4.02,0.9000,High
+A,202,VAL,3.48,0.9000,High
+D,182,LEU,3.40,0.9000,High
+A,193,LEU,3.81,0.9000,High
+A,192,ILE,3.75,0.9000,High
+A,286,ALA,3.28,0.9000,High
+A,201,GLY,3.44,0.9000,High

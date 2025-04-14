@@ -1,0 +1,100 @@
+>sp|Q1KVU8|PSBA_TETOB Photosystem II protein D1 OS=Tetradesmus obliquus OX=3088 GN=psbA PE=1 SV=1
+MTA-I-----------------------------LAK--NEASSLWARFCE--------------WITS-----------
+----------------------------------------------TENRLYIGWFGVIMIPTLLTATSVFIIAFI----
+--------------------------------------------------------AAPPVD--IDGIREPVSGSLLYGN
+NIISGAVVPTSNAIGLHFYPIWEAA--S----------------------------------------------------
+-------------------LDEWLYNGGPYQLIVCHFF-LGICCYMGREWELSYRLG---MRPWIAVAYSAPVA------
+------AAT----------AVFIIYPIGQ-----GSFS-DGMPL----GI-SGTFNFMIVFQA-----------------
+-------------------E-HNILMHPFHMLGVAGVFGGSLF-----SAMHGSLVTSSLIRETTENESANEGYK-FGQE
+EETYNIVAAHGYFGRLIFQYA-SFN-NSRSLHF--FLAAWPVVGI----------------------WFTALGISTMAFN
+LNGFNFNQSVVDSQGRVLNTWADI-INRANLGMEVMHERNAHNFPLDLASVE-------APSVNA
+>sp|P07753|PSBA_CHLRE Photosystem II protein D1 OS=Chlamydomonas reinhardtii OX=3055 GN=psbA PE=1 SV=1
+MTA-I-----------------------------LER--RENSSLWARFCE--------------WITS-----------
+----------------------------------------------TENRLYIGWFGVIMIPCLLTATSVFIIAFI----
+--------------------------------------------------------AAPPVD--IDGIREPVSGSLLYGN
+NIITGAVIPTSNAIGLHFYPIWEAA--S----------------------------------------------------
+-------------------LDEWLYNGGPYQLIVCHFL-LGVYCYMGREWELSFRLG---MRPWIAVAYSAPVA------
+------AAS----------AVFLVYPIGQ-----GSFS-DGMPL----GI-SGTFNFMIVFQA-----------------
+-------------------E-HNILMHPFHMLGVAGVFGGSLF-----SAMHGSLVTSSLIRETTENESANEGYR-FGQE
+EETYNIVAAHGYFGRLIFQYA-SFN-NSRSLHF--FLAAWPVIGI----------------------WFTALGLSTMAFN
+LNGFNFNQSVVDSQGRVLNTWADI-INRANLGMEVMHERNAHNFPLDLASTN--------SSSNN
+>sp|Q55700|FTSH2_SYNY3 ATP-dependent zinc metalloprotease FtsH 2 OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=ftsH2 PE=1 SV=1
+MKF-SWRTALLWSLPLLVVGFFFWQGSFGGADANLGSNTANTRMTYGRFLE--------------YVDAGRITSVDLYEN
+GRTAIVQVSDPEVDRTLRSRVDLPTNAPELIARLRDSNIRLDSHPVRNNGMVWGFVGNLIFPVLLIASLFFLFRRSSNMP
+GGPGQAMNFGKSKARFQMDAKTGVMFDDVAGIDEAKEELQEVVTFLKQPERFTAVGAKIPKG--VLLVGPPGTGKTLLAK
+AIAGEAGVPFFSISGSEFVEMFVGVGASRVRDLFKKAKENAPCLIFIDEIDAVGRQRGAGIGGGNDEREQTLNQLLTEMD
+GFEGNTGIIIIAATNRPDVLDSALMRPGRFDR---QVM-VDAPDYSGRKEILEVHARNKKLAPEVSIDSIARRTPGFSGA
+DLANLLNEAAILTARRRKSAITLL-EIDDAVDRVVAGM-EGTPL----VD-SKSKRLIAYHEVGHAIVGTLLKDHDPVQK
+VTLIPRGQAQGLTWFTPNEE-QGLTTKAQLMARIAGAMGGR----------------------------AAEEEV-FGDD
+EVTTGA---GGDLQ----QVT-EMA-RQMVTRF--GMSNLGPISLESSGGEVFLGGGLMNRSEYSEEVATRIDAQVRQLA
+EQGHQMARKIVQEQREVVDRLVDLLIEKETIDGEEFRQIVAEYAEVPVK--E-------QLIPQL
+>sp|P06585|PSBA_PEA Photosystem II protein D1 OS=Pisum sativum OX=3888 GN=psbA PE=1 SV=3
+MTA-I-----------------------------LER--RDSENLWGRFCN--------------WITS-----------
+----------------------------------------------TENRLYIGWFGVLMIPTLLTATSVFIIAFI----
+--------------------------------------------------------AAPPVD--IDGIREPVSGSLLYGN
+NIISGAIIPTSAAIGLHFYPIWEAA--S----------------------------------------------------
+-------------------VDEWLYNGGPYELIVLHFL-LGVACYMGREWELSFRLG---MRPWIAVAYSAPVA------
+------AAT----------AVFLIYPIGQ-----GSFS-DGMPL----GI-SGTFNFMIVFQA-----------------
+-------------------E-HNILMHPFHMLGVAGVFGGSLF-----SAMHGSLVTSSLIRETTENESANEGYR-FGQE
+EETYNIVAAHGYFGRLIFQYA-SFN-NSRSLHF--FLAAWPVVGI----------------------WFTALGISTMAFN
+LNGFNFNQSVVDSQGRVINTWADI-INRANLGMEVMHERNAHNFPLDLAAVE-------APSING
+>sp|P48183|PSBA_MAIZE Photosystem II protein D1 OS=Zea mays OX=4577 GN=psbA PE=1 SV=1
+MTA-I-----------------------------LER--RESTSLWGRFCN--------------WITS-----------
+----------------------------------------------TENRLYIGWFGVLMIPTLLTATSVFIIAFI----
+--------------------------------------------------------AAPPVD--IDGIREPVSGSLLYGN
+NIISGAIIPTSAAIGLHFYPIWEAA--S----------------------------------------------------
+-------------------VDEWLYNGGPYELIVLHFL-LGVACYMGREWELSFRLG---MRPWIAVAYSAPVA------
+------AAT----------AVFLIYPIGQ-----GSFS-DGMPL----GI-SGTFNFMIVFQA-----------------
+-------------------E-HNILMHPFHMLGVAGVFGGSLF-----SAMHGSLVTSSLIRETTENESANEGYK-FGQE
+EETYNIVAAHGYFGRLIFQYA-SFN-NSRSLHF--FLAAWPVVGI----------------------WFTALGISTMAFN
+LNGFNFNQSVVDSQGRVINTWADI-INRANLGMEVMHERNAHNFPLDLAALE-------VPYLNG
+>sp|P06008|RCEH_BLAVI Reaction center protein H chain OS=Blastochloris viridis OX=1079 GN=puhA PE=1 SV=1
+MYHGA-----------------------------LAQ--HLDIAQLVWYAQ--------------WLVI-----------
+-W--------------------------------------------TVVLLYLRREDRRE-----GYPLVEPLGLV----
+--------------------------------------------------------KLAPEDGQVYELPYPKTFVLPHGG
+TVTVPRRRPETRELKLAQTDGFEGA--P----------------------------------------------------
+-------------------LQP---TGNPLV-----DA-VGPASYAERAEVVDATVD---GK-----AKIVPLR------
+--------------------VATDFSIAE-----GDVDPRGLPVVAADGVEAGTVTDLWVDRS-----------------
+-------------------E-HYFR---YLELSVAGSARTALIPLGFCDVKKDKIVVTSILSEQFANVPRLQSRDQITLR
+EE--DKVSAY-YAGGLL--YA-TP--------------------------------------------------------
+---------------------------------------------------E-------RAESLL
+>sp|P09438|RCEM_CHLAA Reaction center protein M chain OS=Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl) OX=324602 GN=pufM PE=1 SV=2
+MAT-I-----------------------------NMT--PGDLE-LGRDRGRIGKPIEIPLLENFGFDS-----------
+----------------------------------------------QLGPFYLGFWNAVAYITGGIFTFIWLMVMF----
+--------------------------------------------------------AQ--VN--Y--------NPVAFAK
+YFVVLQIDPPSSRYGLSFPPLNE---------------------------------------------------------
+---------------------------GGWWLIATFFLTVSIFAWYMHIYTRAKALG---IKPYLAYGFTGAIA------
+------LYL----------VIYIIRPVWM-----GDWS-EAPAH----GI-KALLDWTNNVSV-----------------
+-------------------RYGNFYYNPFHMLSIFFLLGSTLL-----LAMHAGTIWA--LEKYAAHEEWNEIQA-PGTG
+TER----------AQLFWRWCMGFNANAYSIHLWAFWFAWL-CGI----------------------T-GALGV------
+----------FFSMPDFVNNWFQW-------GIEA-----GINYPQG---PT-------PPVSLP
+>sp|P69560|PSBA_SPIOL Photosystem II protein D1 OS=Spinacia oleracea OX=3562 GN=psbA PE=1 SV=2
+MTA-I-----------------------------LER--RESESLWGRFCN--------------WITS-----------
+----------------------------------------------TENRLYIGWFGVLMIPTLLTATSVFIIAFI----
+--------------------------------------------------------AAPPVD--IDGIREPVSGSLLYGN
+NIISGAIIPTSAAIGLHFYPIWEAA--S----------------------------------------------------
+-------------------VDEWLYNGGPYELIVLHFL-LGVACYMGREWELSFRLG---MRPWIAVAYSAPVA------
+------AAT----------AVFLIYPIGQ-----GSFS-DGMPL----GI-SGTFNFMIVFQA-----------------
+-------------------E-HNILMHPFHMLGVAGVFGGSLF-----SAMHGSLVTSSLIRETTENESANEGYR-FGQE
+EETYNIVAAHGYFGRLIFQYA-SFN-NSRSLHF--FLAAWPVVGI----------------------WFTALGISTMAFN
+LNGFNFNQSVVDSQGRVINTWADI-INRANLGMEVMHERNAHNFPLDLAAIE-------APSTNG
+>sp|P51765|PSBA_THEVL Photosystem II protein D1 OS=Thermostichus vulcanus OX=32053 GN=psbA PE=1 SV=1
+MTT-T-----------------------------LQR--RESANLWERFCN--------------WVTS-----------
+----------------------------------------------TDNRLYVGWFGVIMIPTLLAATICFVIAFI----
+--------------------------------------------------------AAPPVD--IDGIREPVSGSLLYGN
+NIITGAVVPSSNAIGLHFYPIWEAA--S----------------------------------------------------
+-------------------LDEWLYNGGPYQLIIFHFL-LGASCYMGRQWELSYRLG---MRPWICVAYSAPLA------
+------SAF----------AVFLIYPIGQ-----GSFS-DGMPL----GI-SGTFNFMIVFQA-----------------
+-------------------E-HNILMHPFHQLGVAGVFGGALF-----CAMHGSLVTSSLIRETTETESANYGYK-FGQE
+EETYNIVAAHGYFGRLIFQYA-SFN-NSRSLHF--FLAAWRVVGV----------------------WFAALGISTMAFN
+LNGFNFNHSVIDAKGNVINTWADI-INRANLGMEVMHERNAHNFPLDLASAESAPVAMIAPSING
+>sp|P83755|PSBA_ARATH Photosystem II protein D1 OS=Arabidopsis thaliana OX=3702 GN=psbA PE=1 SV=2
+MTA-I-----------------------------LER--RESESLWGRFCN--------------WITS-----------
+----------------------------------------------TENRLYIGWFGVLMIPTLLTATSVFIIAFI----
+--------------------------------------------------------AAPPVD--IDGIREPVSGSLLYGN
+NIISGAIIPTSAAIGLHFYPIWEAA--S----------------------------------------------------
+-------------------VDEWLYNGGPYELIVLHFL-LGVACYMGREWELSFRLG---MRPWIAVAYSAPVA------
+------AAT----------AVFLIYPIGQ-----GSFS-DGMPL----GI-SGTFNFMIVFQA-----------------
+-------------------E-HNILMHPFHMLGVAGVFGGSLF-----SAMHGSLVTSSLIRETTENESANEGYR-FGQE
+EETYNIVAAHGYFGRLIFQYA-SFN-NSRSLHF--FLAAWPVVGI----------------------WFTALGISTMAFN
+LNGFNFNQSVVDSQGRVINTWADI-INRANLGMEVMHERNAHNFPLDLAAVE-------APSTNG
