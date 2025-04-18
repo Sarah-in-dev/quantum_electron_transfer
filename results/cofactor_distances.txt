@@ -1,1 +1,7 @@
 cofactor1	cofactor2	distance
+P680_A	P680_D	8.16
+P680_A	PheoA	17.14
+PheoA	QA	21.92
+QA	QB	17.52
+P680_D	CLA_D_403	30.92
+CLA_D_403	QB	48.09

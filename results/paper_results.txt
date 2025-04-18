@@ -6,41 +6,39 @@ RESULTS SUMMARY
 
 1. Highly Conserved Residues Cluster Around Critical Electron Transfer Pathways
 
-Total residues analyzed: 234
-Residues with high quantum relevance: 176 (75.2%)
-Residues with medium quantum relevance: 33 (14.1%)
-Residues with low quantum relevance: 25 (10.7%)
+Total residues analyzed: 515
+Residues with high quantum relevance: 207 (40.2%)
+Residues with medium quantum relevance: 267 (51.8%)
+Residues with low quantum relevance: 41 (8.0%)
 
 Mean conservation score in high quantum relevance residues: 0.901
-Mean conservation score across all residues: 0.838
-Standard deviation of conservation scores: 0.008
+Mean conservation score across all residues: 0.840
+Standard deviation of conservation scores: 0.005
 
-Correlation between distance and conservation: -0.066
-This indicates a weak negative correlation between distance and conservation.
+Correlation between distance and conservation: 0.087
+This indicates a weak positive correlation between distance and conservation.
 
 2. Cofactor Distances Correlate with Conservation in Quantum-Relevant Regions
 
-Distance to nearest cofactor range: 2.1 - 5.0 Å
-Mean distance to nearest cofactor: 3.7 Å
+Distance to nearest cofactor range: 2.1 - 14.0 Å
+Mean distance to nearest cofactor: 7.5 Å
 
 3. Classification System for Variants Based on Potential Quantum Effects
 
 We classified residues into three categories based on their potential impact on quantum coherence:
-- High quantum relevance: 176 residues (75.2%)
+- High quantum relevance: 207 residues (40.2%)
   These residues are within 14Å of cofactors and show >80% conservation.
-- Medium quantum relevance: 33 residues (14.1%)
+- Medium quantum relevance: 267 residues (51.8%)
   These residues are within 14-20Å of cofactors and show >60% conservation.
-- Low quantum relevance: 25 residues (10.7%)
+- Low quantum relevance: 41 residues (8.0%)
   These residues are either distant from cofactors or show low conservation.
 
 COFACTOR DISTANCE ANALYSIS
 -----------------------
 
-NOTE: This is simulated data for paper writing purposes, as actual measurements were not available
-
-Number of cofactor pairs analyzed: N/A (simulated data)
-Distance range between adjacent cofactors: 4.2 - 14.8 Å
-Mean distance between adjacent cofactors: 9.6 Å
+Number of cofactor pairs analyzed: 6
+Distance range between adjacent cofactors: 8.2 - 48.1 Å
+Mean distance between adjacent cofactors: 24.0 Å
 
 These distances correspond to the range where quantum tunneling effects can occur (4-14Å),
 suggesting that the protein structure has evolved to maintain optimal distances for quantum effects.
@@ -49,28 +47,40 @@ TEXT-BASED DATA VISUALIZATIONS
 ---------------------------
 
 Conservation Score Distribution:
-Distribution (min=0.30, max=1.00, n=234)
+Distribution (min=0.30, max=1.00, n=515)
 --------------------------------------------------
-[  0.30-  0.37] |  (3)
-[  0.37-  0.44] |  (1)
-[  0.44-  0.51] | # (8)
+[  0.30-  0.37] |  (2)
+[  0.37-  0.44] |  (2)
+[  0.44-  0.51] | # (16)
 [  0.51-  0.58] |  (0)
-[  0.58-  0.65] | ## (13)
-[  0.65-  0.72] | ### (20)
+[  0.58-  0.65] | # (21)
+[  0.65-  0.72] | #### (58)
 [  0.72-  0.79] |  (0)
-[  0.79-  0.86] | ## (13)
-[  0.86-  0.93] | ############################## (175)
-[  0.93-  1.00] |  (1)
+[  0.79-  0.86] | ### (48)
+[  0.86-  0.93] | ############################## (366)
+[  0.93-  1.00] |  (2)
 --------------------------------------------------
 
 Distance to Cofactor Distribution:
-No data available for histogram
+Distribution (min=8.16, max=48.09, n=6)
+--------------------------------------------------
+[  8.16- 12.15] | ############### (1)
+[ 12.15- 16.15] |  (0)
+[ 16.15- 20.14] | ############################## (2)
+[ 20.14- 24.13] | ############### (1)
+[ 24.13- 28.13] |  (0)
+[ 28.13- 32.12] | ############### (1)
+[ 32.12- 36.11] |  (0)
+[ 36.11- 40.10] |  (0)
+[ 40.10- 44.10] |  (0)
+[ 44.10- 48.09] | ############### (1)
+--------------------------------------------------
 
 Quantum Relevance Classification Distribution:
 --------------------------------------------------
-High:   ##################################### (176 residues, 75.2%)
-Medium: ####### (33 residues, 14.1%)
-Low:    ##### (25 residues, 10.7%)
+High:   #################### (207 residues, 40.2%)
+Medium: ######################### (267 residues, 51.8%)
+Low:    ### (41 residues, 8.0%)
 --------------------------------------------------
 
 IMPLICATIONS FOR QUANTUM BIOLOGY

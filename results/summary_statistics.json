@@ -1,8 +1,12 @@
 {
-  "total_residues_analyzed": 234,
-  "high_relevance_count": 176,
-  "medium_relevance_count": 33,
-  "low_relevance_count": 25,
-  "mean_conservation_high": 0.9005681818181848,
-  "mean_conservation_overall": 0.8376068376068401
+  "total_residues_analyzed": 515,
+  "high_relevance_count": 207,
+  "medium_relevance_count": 267,
+  "low_relevance_count": 41,
+  "mean_conservation_high": 0.9009661835748826,
+  "mean_conservation_overall": 0.8396116504854328,
+  "cofactor_pairs_analyzed": 6,
+  "min_cofactor_distance": 8.16,
+  "max_cofactor_distance": 48.09,
+  "mean_cofactor_distance": 23.958333333333332
 }

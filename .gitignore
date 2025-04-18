@@ -1,0 +1,22 @@
+# Ignore data directory
+data/
+
+# Ignore large files
+*.pdb
+*.fasta
+*.fastq
+*.bam
+*.sam
+*.gz
+
+# Ignore environment files
+*env/
+.venv/
+venv/
+ENV/
+
+# Ignore cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
